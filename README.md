@@ -8,3 +8,7 @@
 4. Install the dependencies (spyder-kernels, yfinance, matplotlib, seaborn): `pip install -r requirements.txt`
 5. Install the environment inside Jupyter: `ipython kernel install --user --name=env`
 
+## Run the code
+
+1. Check out [get_signals.py]
+2. Check out the Jupyter Notebook [chart_results.ipynb]
