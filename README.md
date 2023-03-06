@@ -10,5 +10,5 @@
 
 ## Run the code
 
-1. Check out [get_signals.py]
-2. Check out the Jupyter Notebook [chart_results.ipynb]
+1. Check out [get_signals.py](get_signals.py)
+2. Check out the Jupyter Notebook [chart_results.ipynb](chart_results.ipynb)
